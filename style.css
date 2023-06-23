@@ -69,7 +69,7 @@ section{
   justify-items: end;
   align-items: start;
 }
-.left-center{
+.center-lef-text{
   display: flex;
   justify-items: start;
   align-items: center;
@@ -77,8 +77,8 @@ section{
 .center{
 
   display: grid;
-  justify-items: center;
-  align-items: center;
+    justify-items: center;
+    align-items: center;
 }
 
 .right-center{
@@ -105,4 +105,17 @@ section{
  display: grid;
  justify-items: end;
  align-items: end;
+}
+
+
+
+.example{
+  margin-top: 50px;
+  text-align: center;
+  color: #fff;
+}
+
+
+.bg-color{
+  color: #ffff;
 }
